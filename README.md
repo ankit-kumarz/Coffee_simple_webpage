@@ -50,17 +50,16 @@ git clone https://github.com/your-username/simple-coffee-website.git
 - **Google Fonts** for typography
 
 ## 📌 Live Demo
-Check out the live demo here: [Live Demo Link](#) *(Replace with actual link if deployed)*
-
+Check out the live demo here: [Live Demo Link](#) 
 ## 🤝 Contributing
 Feel free to fork this repository, make improvements, and submit pull requests!
 
 ## 📧 Contact
 Author
 
-👤 Ankit (ankit1068)
+👤 Ankit 
 
-GitHub: ankit1068
+GitHub: ankit-kumarz
 For any inquiries or suggestions, reach out at ankitrajj1068@gmail.com
 
 ---
